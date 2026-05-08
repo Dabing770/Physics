@@ -14,7 +14,7 @@ Diffraktio
 $$d*sin\alpha=k\lambda$$
 d=Hilavakio(m)
 - Hilojen välimatka
-lambda=Aallon pituus (m)
+λ=Aallon pituus (m)
 k=Maksimin kertaluku 0,1,2,3,...
 - 0 Keskusmaksimi tai päämaksimi
-a=Kertakuvu k maksimin taipumiskulma
+α=Kertakuvu k maksimin taipumiskulma
