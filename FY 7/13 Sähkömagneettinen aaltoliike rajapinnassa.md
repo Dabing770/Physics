@@ -12,10 +12,10 @@ Heijastus laki
 $$\alpha_1=\beta_1$$
 - Osa säteilystä taittuu toiseen väliaineeseen
 Taittumislaki (Senllin laki)
-$$
-\frac {sin\alpha_1}{sin\alpha_2}= \frac {n_2}
-{n_1}
-$$
+
+$$\frac {sin\alpha_1}{sin\alpha_2}= \frac {n_2}
+{n_1}$$
+
 n Taitekerroin
 
 - Taittuminen tapahtuu, koska valonnopeus muuttuu eri aineissa
