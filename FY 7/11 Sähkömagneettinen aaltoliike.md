@@ -5,6 +5,7 @@ Anteni:
 - Laite, joka lähettää tai vastaan otta söhkömagneetista aaltoliikettä
 	- Langan tai sauvan suuntaiset
 	- Langan tai sauvan kokoiset aaltoja
+	
 
 Aaltoliikken perusyhtälö
 
@@ -14,4 +15,3 @@ f=Taajuus Hz
 lambda=Aallon pituus
 
 $$f={1}/{T}$$
-T=
