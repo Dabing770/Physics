@@ -1,5 +1,8 @@
 Kun magneettivuo muutuu se saa aikaa jänniteen johtimessa
+
+
 $$\phi=ABcos\alpha$$
+
 α=***Pinnan normaali ja magneettikentän*** välinen kulma
 
 

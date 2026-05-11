@@ -10,6 +10,7 @@ Anteni:
 Aaltoliikken perusyhtälö
 
 $$v=f\lambda$$
+
 v=Nopeus (m/s)
 f=Taajuus Hz
 lambda=Aallon pituus
