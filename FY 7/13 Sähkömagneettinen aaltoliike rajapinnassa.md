@@ -27,3 +27,5 @@ $$n_{12}= \frac{sin \alpha_1}{sin \alpha_2}=\frac {v_1}{v_2}$$
 	- **Kokonaisheijastuminen**
 
 - Prismalla voidaan valkoinen valo hajottaa väreiksi (Sektori), koska eri valoilla on erilainen taitekerroinsamassa aineessa, jolloin eri värit taittuvat eri kulmiin = **dispersio** 
+
+- Aallon taajuus ei muutuu, kun siirrytään väliaineesta toiseen

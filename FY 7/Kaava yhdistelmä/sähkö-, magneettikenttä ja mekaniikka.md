@@ -41,4 +41,4 @@ qBsinθ=m\frac{v}{r}
 $$
 
 
-判断 电/磁 场之后
+判断 电/磁 场之后用Mekaniika的公式
