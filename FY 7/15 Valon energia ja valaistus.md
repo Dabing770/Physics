@@ -20,7 +20,7 @@ $$
 $$
 
 $$
-I\propto \frac{I}{r^2} 
+I\propto \frac{1}{r^2} 
 $$
 
 $$
@@ -56,7 +56,7 @@ $$
 $$
 
 
-Valovirta
+## Valovirta
 
 $$
 \Phi
